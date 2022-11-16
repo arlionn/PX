@@ -1,18 +1,6 @@
-&emsp; 
-
 # 连享会：Stata 寒假班-2023
 
 >  Update: `2022.11.15`，[PDF 课纲](https://file.lianxh.cn/KC/lianxh_PX.pdf)
-
-
-&emsp;
-
----
-
-**目录**
-[TOC]
-
----
 
 &emsp;
 
